@@ -13,7 +13,7 @@ Predicting whether it will rain **today** in the Melbourne area using the previo
 | Logistic Regression, `class_weight='balanced'` | 0.77 | 0.74 | 0.52 |
 
 Evaluated on a stratified 20% hold-out set (1,512 days, 358 of them rainy).
-67
+
 ## Key takeaways
 
 - **Accuracy flatters the model.** About 76% of days are dry, so 0.84 accuracy sounds strong, but both default models catch only about half of the rainy days (181 of 358 for the Random Forest).
