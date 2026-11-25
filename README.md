@@ -2,7 +2,6 @@
 
 Predicting whether it will rain **today** in the Melbourne area using the previous day's weather, built with scikit-learn. Compares a tuned Random Forest against Logistic Regression and looks at why accuracy alone is misleading on imbalanced data.
 
-Final project for the IBM *Machine Learning with Python* course.
 
 ## Results
 
